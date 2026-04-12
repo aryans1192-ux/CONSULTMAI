@@ -1,3 +1,12 @@
 streamlit
 anthropic
 python-dotenv
+groq
+google-generativeai
+pdfplumber
+python-docx
+python-pptx
+openpyxl
+pandas
+chromadb
+sentence-transformers

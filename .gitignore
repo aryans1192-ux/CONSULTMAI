@@ -2,7 +2,7 @@ venv/
 .env
 __pycache__/
 .idea/
-ai_engine.py/
-app.py/
-llm_client.py/
 *.pyc
+*.pyo
+knowledge/chroma_db/
+com/
